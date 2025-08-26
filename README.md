@@ -12,4 +12,4 @@
 
 ### 其他资源
 
-![头像](https://gitee.com/liangshi233/panel-img/raw/master/liangshi-calc/img/img.webp)
+[![liangshi-calc](https://gitee.com/liangshi233/panel-img/raw/master/liangshi-calc/img/img.png)](https://gitee.com/liangshi233/liangshi-calc)
