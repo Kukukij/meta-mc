@@ -95,6 +95,14 @@
     "elem": "fusion",
     "weapon": "broadblade"
   },
+  "1208": {
+    "id": 1208,
+    "name": "嘉贝莉娜",
+    "abbr": "嘉贝莉娜",
+    "star": 5,
+    "elem": "fusion",
+    "weapon": "pistols"
+  },
   "1301": {
     "id": 1301,
     "name": "卡卡罗",
@@ -178,7 +186,7 @@
   "1406": {
     "id": 1406,
     "name": "漂泊者·气动",
-    "abbr": "漂泊者·气动",
+    "abbr": "气动",
     "star": 5,
     "elem": "aero",
     "weapon": "sword"
@@ -194,7 +202,7 @@
   "1408": {
     "id": 1408,
     "name": "漂泊者·气动",
-    "abbr": "漂泊者·气动",
+    "abbr": "气动",
     "star": 5,
     "elem": "aero",
     "weapon": "sword"
@@ -215,10 +223,18 @@
     "elem": "aero",
     "weapon": "gauntlets"
   },
+  "1411": {
+    "id": 1411,
+    "name": "仇远",
+    "abbr": "仇远",
+    "star": 5,
+    "elem": "aero",
+    "weapon": "sword"
+  },
   "1501": {
     "id": 1501,
     "name": "漂泊者·衍射",
-    "abbr": "漂泊者·衍射",
+    "abbr": "衍射",
     "star": 5,
     "elem": "spectrp",
     "weapon": "sword"
@@ -226,7 +242,7 @@
   "1502": {
     "id": 1502,
     "name": "漂泊者·衍射",
-    "abbr": "漂泊者·衍射",
+    "abbr": "衍射",
     "star": 5,
     "elem": "spectrp",
     "weapon": "sword"
@@ -298,7 +314,7 @@
   "1604": {
     "id": 1604,
     "name": "漂泊者·湮灭",
-    "abbr": "漂泊者·湮灭",
+    "abbr": "湮灭",
     "star": 5,
     "elem": "havoc",
     "weapon": "sword"
@@ -306,7 +322,7 @@
   "1605": {
     "id": 1605,
     "name": "漂泊者·湮灭",
-    "abbr": "漂泊者·湮灭",
+    "abbr": "湮灭",
     "star": 5,
     "elem": "havoc",
     "weapon": "sword"
