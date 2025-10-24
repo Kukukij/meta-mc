@@ -151,6 +151,14 @@
     "elem": "electro",
     "weapon": "broadblade"
   },
+  "1307": {
+    "id": 1307,
+    "name": "卜灵",
+    "abbr": "卜灵",
+    "star": 4,
+    "elem": "electro",
+    "weapon": "rectifier"
+  },
   "1402": {
     "id": 1402,
     "name": "秧秧",
@@ -286,6 +294,14 @@
     "star": 5,
     "elem": "spectrp",
     "weapon": "gauntlets"
+  },
+  "1508": {
+    "id": 1508,
+    "name": "千咲",
+    "abbr": "千咲",
+    "star": 5,
+    "elem": "havoc",
+    "weapon": "broadblade"
   },
   "1601": {
     "id": 1601,
