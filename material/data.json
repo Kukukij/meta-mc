@@ -7941,5 +7941,11 @@
     "name": "test/红色品质角色3号插件盲盒",
     "type": "food",
     "star": 5
+  },
+  "Stay tuned": {
+    "id": "80601013",
+    "name": "Stay tuned",
+    "type": "food",
+    "star": 5
   }
 }
