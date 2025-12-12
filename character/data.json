@@ -103,6 +103,14 @@
     "elem": "fusion",
     "weapon": "pistols"
   },
+  "1209": {
+    "id": 1209,
+    "name": "莫宁",
+    "abbr": "莫宁",
+    "star": 5,
+    "elem": "fusion",
+    "weapon": "broadblade"
+  },
   "1301": {
     "id": 1301,
     "name": "卡卡罗",
@@ -302,6 +310,14 @@
     "star": 5,
     "elem": "havoc",
     "weapon": "broadblade"
+  },
+  "1509": {
+    "id": 1509,
+    "name": "琳奈",
+    "abbr": "琳奈",
+    "star": 5,
+    "elem": "spectrp",
+    "weapon": "pistols"
   },
   "1601": {
     "id": 1601,
