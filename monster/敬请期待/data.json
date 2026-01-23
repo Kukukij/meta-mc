@@ -1,0 +1,22 @@
+{
+  "id": 350000370,
+  "name": "敬请期待",
+  "desc": "敬请期待",
+  "descAll": [
+    "敬请期待"
+  ],
+  "rarity": 1,
+  "element": 1,
+  "elementArray": [
+    1
+  ],
+  "echo": 6010196,
+  "attr": {
+    "Res": {},
+    "hp": [],
+    "def": [],
+    "atk": [],
+    "hardness": [],
+    "rage": []
+  }
+}
