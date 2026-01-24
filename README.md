@@ -15,7 +15,7 @@
 在根目录下执行
 
 ~~~
-git clone --depth=1 https://gitee.com/liangshi233/meta-mc.git ./plugins/miao-plugin/resources/
+git clone --depth=1 https://gitee.com/liangshi233/meta-mc.git ./plugins/miao-plugin/resources/meta-mc/
 ~~~
 
 即可使用
