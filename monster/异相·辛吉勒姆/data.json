@@ -1,0 +1,23 @@
+{
+  "id": 350000360,
+  "name": "异相·辛吉勒姆",
+  "desc": "敬请期待",
+  "descAll": [
+    "敬请期待"
+  ],
+  "rarity": 4,
+  "element": 5,
+  "elementArray": [
+    5,
+    2
+  ],
+  "echo": 6010191,
+  "attr": {
+    "Res": {},
+    "hp": [],
+    "def": [],
+    "atk": [],
+    "hardness": [],
+    "rage": []
+  }
+}
