@@ -12,7 +12,8 @@
   "rarity": 4,
   "element": 5,
   "elementArray": [
-    5
+    5,
+    3
   ],
   "echo": 6000059,
   "attr": {
