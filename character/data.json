@@ -255,6 +255,14 @@
     "elem": "aero",
     "weapon": "sword"
   },
+  "1412": {
+    "id": 1412,
+    "name": "西格莉卡",
+    "abbr": "西格莉卡",
+    "star": 5,
+    "elem": "aero",
+    "weapon": "gauntlets"
+  },
   "1501": {
     "id": 1501,
     "name": "漂泊者·衍射",
